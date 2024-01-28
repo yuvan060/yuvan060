@@ -12,9 +12,8 @@
 
 - 📫 How to reach me **yuvansankar060@gmail.com**
 
--
  📄 Know about my experiences 
-[https://drive.google.com/file/d/1ixQeqeOP6cD94VbUwEwh6dq8MADSZnQz/view?usp=sharing](https://drive.google.com/file/d/1ixQeqeOP6cD94VbUwEwh6dq8MADSZnQz/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1ixQeqeOP6cD94VbUwEwh6dq8MADSZnQz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +23,7 @@ align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
  alt="i_am_yuvan" height="30" width="40" /></a>
 <a 
-href="https://linkedin.com/in/yuvan sankar" target="blank"><img 
+href="https://linkedin.com/in/yuvansankar" target="blank"><img 
 align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
  alt="yuvan sankar" height="30" width="40" /></a>
@@ -123,13 +122,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/and
         </a>
         </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvan060&show_icons=true&locale=en&layout=compact" alt="yuvan060" /></p>
+<p><img  height="200" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvan060&" alt="yuvan060" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvan060&show_icons=true&locale=en&layout=compact" alt="yuvan060" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvan060&show_icons=true&locale=en" alt="yuvan060" /></p>
+<p>&nbsp;<img align="right" height="200"  src="https://github-readme-stats.vercel.app/api?username=yuvan060&show_icons=true&locale=en" alt="yuvan060" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvan060&" alt="yuvan060" /></p>
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=yuvan060" 
-alt="yuvan060" /></a> </p>
 
