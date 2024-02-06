@@ -123,9 +123,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/and
         </p>
 
 <p><img  height="200" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvan060&" alt="yuvan060" /></p>
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvan060&show_icons=true&locale=en&layout=compact" alt="yuvan060" /></p>
+<p><img align="center" height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvan060&show_icons=true&locale=en&layout=compact" alt="yuvan060" /></p>
 
-<p>&nbsp;<img align="right" height="200"  src="https://github-readme-stats.vercel.app/api?username=yuvan060&show_icons=true&locale=en" alt="yuvan060" /></p>
+<p>&nbsp;<img align="center" height="200" width="100%"  src="https://github-readme-stats.vercel.app/api?username=yuvan060&show_icons=true&locale=en" alt="yuvan060" /></p>
 
  
 
