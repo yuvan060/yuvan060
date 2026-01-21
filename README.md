@@ -1,19 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHI_h5-E_2L0Q/profile-displaybackgroundimage-shrink_350_1400/0/1669439880516?e=1712188800&v=beta&t=ID2hAWnifYq0b56azUULHGsKer-toAlIHhGRh3NWYTY)](https://github.com/yuvan060/yuvan060/)
 <h1 align="center">Hi 👋, I'm Yuvan Sankar</h1>
-<h3 align="center">Software Engineering Student with a Passion for Innovation and Problem Solving</h3>
+<h3 align="center">Software Engineer 1 @Mr. Cooper</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-  
-
-- 🌱 I’m currently learning **Android Development , DSA & Algorithms**
-
-- 💬 Ask me about **Java , C++ , Python , DSA**
-
 - 📫 How to reach me **yuvansankar060@gmail.com**
 
- 📄 Know about my experiences 
-[Resume](https://drive.google.com/file/d/1ixQeqeOP6cD94VbUwEwh6dq8MADSZnQz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
