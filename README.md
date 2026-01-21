@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHI_h5-E_2L0Q/profile-displaybackgroundimage-shrink_350_1400/0/1669439880516?e=1712188800&v=beta&t=ID2hAWnifYq0b56azUULHGsKer-toAlIHhGRh3NWYTY)](https://github.com/yuvan060/yuvan060/)
 <h1 align="center">Hi 👋, I'm Yuvan Sankar</h1>
 <h3 align="center">Software Engineer 1 @Mr. Cooper</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -114,10 +113,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/and
         </a>
         </p>
 
-<p><img  height="200" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvan060&" alt="yuvan060" /></p>
-<p><img align="center" height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvan060&show_icons=true&locale=en&layout=compact" alt="yuvan060" /></p>
-
-<p>&nbsp;<img align="center" height="200" width="100%"  src="https://github-readme-stats.vercel.app/api?username=yuvan060&show_icons=true&locale=en" alt="yuvan060" /></p>
 
  
 
